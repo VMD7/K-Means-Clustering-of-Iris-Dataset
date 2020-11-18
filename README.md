@@ -10,11 +10,11 @@ For more information about K-Means Clustering you can refe this (https://towards
 
 To understand this repository follow the below steps:
 
-1) First Clone, Fork or Download this repository or you can run Task6Colab.ipynb on Google Colab.
+1) First Clone, Fork or Download this repository or you can run Task2Colab.ipynb on Google Colab.
 
 2) The dataset used is (https://bit.ly/3kXTdox).
 
-3) Now, you can run Task6.ipynb or Task6Colab.ipynb file locally or online.
+3) Now, you can run Task2.ipynb or Task2Colab.ipynb file locally or online.
 
 4) I used inbuild Scikit Learn libraries of K-Means clustering.
 
