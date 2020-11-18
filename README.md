@@ -6,7 +6,8 @@ In this repository I used K-Means Clustering to make clusters of Iris data on th
 
 For more information about K-Means Clustering you can refe this (https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a).
 
-##Code of K-Means Clustering of Iris Dataset
+## Code of K-Means Clustering of Iris Dataset
+
 To understand this repository follow the below steps:
 
 1) First Clone, Fork or Download this repository or you can run Task6Colab.ipynb on Google Colab.
