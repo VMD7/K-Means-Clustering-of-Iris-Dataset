@@ -1,4 +1,4 @@
-# K-Means-Clustering-of-Iris-Dataset
+# K-Means Clustering of Iris Dataset
 
 This is Task-2 of The Sparks Foundation GRIP. This task is based on Unsupervised Machine Learning.
 
